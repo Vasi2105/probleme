@@ -28,3 +28,5 @@ Points:
 Grade:
 
 TBA
+
+> Poti sa imi pui intrebari - chiar ma astept sa ma intrebi lucruri.
